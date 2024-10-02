@@ -1,2 +1,1 @@
-# PureLuxe-Face-Cream
-The Figma design for Pureluxe Face Cream features a minimalist layout with soft pastels and gold accents, emphasizing luxury. The hero section highlights the product with a bold headline and call-to-action. 
+The Figma design for Pureluxe Face Cream is a static page that delivers a simple yet elegant user experience. Featuring a minimalist layout with soft pastels and gold accents, the design highlights the product in the hero section with a bold headline and call-to-action. Key benefits, testimonials, and ingredients are displayed with modern fonts and ample white space, ensuring a sober and refined look.
